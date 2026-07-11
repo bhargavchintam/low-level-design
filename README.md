@@ -15,6 +15,10 @@ LRU cache, rate limiter, logging framework, notification service, splitwise, mov
 car rental, chess, hotel booking, cache eviction policies, meeting scheduler, model registry,
 inference server, mini autograd, tokenizer (BPE), data loader, experiment tracker, vector store,
 embedding cache, feature store client, llm rate limiter, prompt template engine, ml pipeline,
-ab test assignment, model router, circuit breaker, streaming feature aggregator.
+ab test assignment, model router, circuit breaker, streaming feature aggregator, thread pool,
+consistent hash ring, bloom filter, LSM memtable, metrics aggregator, object pool, GPU quota manager,
+GPU memory allocator (best-fit + buddy), tensor ndarray (strides/broadcasting), compute graph
+executor, dynamic batcher (fake-clock driven), KV cache pool (paged attention), kernel dispatcher,
+priority scheduler (aging).
 
 Patterns show up where they fit — strategy, factory, state, observer, chain of responsibility — not forced.
