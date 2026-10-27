@@ -18,6 +18,6 @@ Each state's `handle()` both performs the physical action for that tick (move on
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/elevator-system
+cd elevator-system
 java Main.java
 ```

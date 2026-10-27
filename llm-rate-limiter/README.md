@@ -20,6 +20,6 @@ tiny calls should be blockable on request count alone.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/llm-rate-limiter
+cd llm-rate-limiter
 python3 main.py
 ```

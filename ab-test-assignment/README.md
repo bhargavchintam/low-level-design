@@ -21,6 +21,6 @@ shouldn't be correlated with their bucket in another.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/ab-test-assignment
+cd ab-test-assignment
 python3 main.py
 ```

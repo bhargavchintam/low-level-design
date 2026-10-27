@@ -35,6 +35,6 @@ contiguous.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/gpu-memory-allocator
+cd gpu-memory-allocator
 python3 main.py
 ```

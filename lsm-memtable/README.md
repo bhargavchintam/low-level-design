@@ -26,7 +26,7 @@ needing to touch or rewrite the older run it's shadowing.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/lsm-memtable
+cd lsm-memtable
 python3 main.py
 ```
 The demo runs 63 puts/overwrites/deletes/resurrections (a key deleted then written again must come

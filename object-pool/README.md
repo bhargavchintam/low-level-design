@@ -27,7 +27,7 @@ leaking one that a caller forgot to release.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/object-pool
+cd object-pool
 python3 main.py
 ```
 The demo pools 256-element numpy buffers capped at 8. A warmup check confirms a released buffer

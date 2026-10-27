@@ -33,6 +33,6 @@ several nodes downstream share an ancestor - not once per consumer.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/compute-graph-executor
+cd compute-graph-executor
 python3 main.py
 ```

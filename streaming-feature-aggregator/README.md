@@ -21,6 +21,6 @@ the window - the kind of feature a model needs at serving time that can't be pre
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/streaming-feature-aggregator
+cd streaming-feature-aggregator
 python3 main.py
 ```

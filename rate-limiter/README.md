@@ -15,6 +15,6 @@ Design a rate limiter that decides whether a client's request should be allowed 
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/rate-limiter
+cd rate-limiter
 python3 main.py
 ```

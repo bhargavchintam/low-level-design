@@ -38,6 +38,6 @@ bounds the worst case.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/priority-scheduler
+cd priority-scheduler
 python3 main.py
 ```

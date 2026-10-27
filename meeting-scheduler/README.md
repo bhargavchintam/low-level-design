@@ -15,6 +15,6 @@ Design a scheduler that books meetings into shared meeting rooms while preventin
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/meeting-scheduler
+cd meeting-scheduler
 java Main.java
 ```

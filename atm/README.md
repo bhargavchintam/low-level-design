@@ -19,6 +19,6 @@ State flow: `Idle` -> (valid card) -> `HasCard` -> (correct PIN) -> `Authenticat
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/atm
+cd atm
 python3 main.py
 ```

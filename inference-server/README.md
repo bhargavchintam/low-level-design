@@ -34,6 +34,6 @@ making any individual caller wait past a bounded latency budget.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/inference-server
+cd inference-server
 python3 main.py
 ```

@@ -26,6 +26,6 @@ failure to the caller.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/model-router
+cd model-router
 python3 main.py
 ```

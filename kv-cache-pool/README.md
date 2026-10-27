@@ -38,6 +38,6 @@ now.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/kv-cache-pool
+cd kv-cache-pool
 python3 main.py
 ```

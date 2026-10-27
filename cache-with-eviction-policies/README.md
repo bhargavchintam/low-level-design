@@ -17,6 +17,6 @@ Design a fixed-capacity cache that, once full, must decide which entry to remove
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/cache-with-eviction-policies
+cd cache-with-eviction-policies
 python3 main.py
 ```

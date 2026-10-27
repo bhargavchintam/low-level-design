@@ -29,7 +29,7 @@ should be able to approximate closely without unbounded memory growth as the str
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/metrics-aggregator
+cd metrics-aggregator
 python3 main.py
 ```
 The demo streams 50,000 lognormal-distributed latencies (realistic long-tailed shape) through a

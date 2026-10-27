@@ -25,7 +25,7 @@ result (or exception) back later, without polling.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/thread-pool
+cd thread-pool
 python3 main.py
 ```
 The demo submits 20 `slow_square` tasks (each sleeps 30ms) plus 3 tasks that deliberately divide

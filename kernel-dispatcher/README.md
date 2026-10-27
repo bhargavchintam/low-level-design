@@ -32,6 +32,6 @@ without an if/elif chain baked into every op.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/kernel-dispatcher
+cd kernel-dispatcher
 python3 main.py
 ```

@@ -25,6 +25,6 @@ with worked examples, or a chat-format message list.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/prompt-template-engine
+cd prompt-template-engine
 python3 main.py
 ```

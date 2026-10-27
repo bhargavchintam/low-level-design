@@ -30,7 +30,7 @@ to every input that fed into it via a single `backward()` call.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/mini-autograd
+cd mini-autograd
 python3 main.py
 ```
 The demo builds an expression touching every supported op, runs `backward()`,

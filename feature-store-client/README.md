@@ -25,6 +25,6 @@ the serving path must be able to tell the caller when a feature is stale.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/feature-store-client
+cd feature-store-client
 python3 main.py
 ```

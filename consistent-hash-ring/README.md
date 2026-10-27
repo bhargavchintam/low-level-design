@@ -23,7 +23,7 @@ even even though nodes join at arbitrary times.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/consistent-hash-ring
+cd consistent-hash-ring
 python3 main.py
 ```
 The demo rings up 5 nodes (200 virtual nodes each) and maps 20,000 keys, checking the pre-add

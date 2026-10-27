@@ -29,7 +29,7 @@ partial batch on request.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/data-loader
+cd data-loader
 python3 main.py
 ```
 The demo runs two epochs over a 23-sample dataset with `batch_size=5,

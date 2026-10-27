@@ -23,7 +23,7 @@ acceptable - if the filter says "definitely not present," that has to be true 10
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/bloom-filter
+cd bloom-filter
 python3 main.py
 ```
 The demo sizes a filter for 5,000 items at a 1% target false-positive rate, inserts all 5,000, and

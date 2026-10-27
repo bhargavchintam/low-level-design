@@ -33,6 +33,6 @@ same random inputs.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/tensor-ndarray
+cd tensor-ndarray
 python3 main.py
 ```

@@ -15,6 +15,6 @@ Design an expense-splitting system like Splitwise: a group of users records shar
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/splitwise
+cd splitwise
 java Main.java
 ```

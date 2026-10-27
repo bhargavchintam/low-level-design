@@ -32,7 +32,7 @@ including text the tokenizer never saw during training.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/tokenizer
+cd tokenizer
 python3 main.py
 ```
 The demo trains on a small repeated corpus, then round-trips several test

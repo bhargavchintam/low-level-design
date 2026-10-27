@@ -13,6 +13,6 @@ Build a logging framework where a log message travels down a chain of handlers (
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/logging-framework
+cd logging-framework
 java Main.java
 ```

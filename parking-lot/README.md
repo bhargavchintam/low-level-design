@@ -21,6 +21,6 @@ Design a multi-floor parking lot that can park motorcycles, cars, and buses into
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/parking-lot
+cd parking-lot
 java Main.java
 ```

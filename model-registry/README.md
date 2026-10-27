@@ -29,6 +29,6 @@ rather than silently applied.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/model-registry
+cd model-registry
 python3 main.py
 ```

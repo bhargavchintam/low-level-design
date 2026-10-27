@@ -32,7 +32,7 @@ the approximate index's results against brute force.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/vector-store
+cd vector-store
 python3 main.py
 ```
 The demo builds a 200-vector, 10-cluster dataset with deliberately

@@ -36,6 +36,6 @@ scheduling to make the test reproducible.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/dynamic-batcher
+cd dynamic-batcher
 python3 main.py
 ```

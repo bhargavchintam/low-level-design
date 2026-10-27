@@ -29,6 +29,6 @@ ever refitting on it - the same contract `sklearn.pipeline.Pipeline` gives you.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/ml-pipeline
+cd ml-pipeline
 python3 main.py
 ```

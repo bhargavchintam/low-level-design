@@ -29,7 +29,7 @@ show the cache is actually paying for itself.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/embedding-cache
+cd embedding-cache
 python3 main.py
 ```
 The demo replays 400 Zipfian-distributed queries over 60 possible texts

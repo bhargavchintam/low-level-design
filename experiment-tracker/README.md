@@ -27,7 +27,7 @@ even if the code inside it raises.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/experiment-tracker
+cd experiment-tracker
 python3 main.py
 ```
 The demo runs a small learning-rate sweep (4 runs, simulated training),

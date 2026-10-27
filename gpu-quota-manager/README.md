@@ -30,7 +30,7 @@ to - instead of simply queuing or rejecting the request.
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/gpu-quota-manager
+cd gpu-quota-manager
 python3 main.py
 ```
 The demo registers 5 tenants with weights 1/2/2/3/4 over a 24-GPU pool, then has each request 10

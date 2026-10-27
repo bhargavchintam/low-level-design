@@ -15,6 +15,6 @@ Design a notification service that can broadcast a message to a set of subscribe
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/notification-service
+cd notification-service
 python3 main.py
 ```

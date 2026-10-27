@@ -18,6 +18,6 @@ State flow: `Idle` -> (coin inserted) -> `HasMoney` -> (valid selection, enough 
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/vending-machine
+cd vending-machine
 python3 main.py
 ```

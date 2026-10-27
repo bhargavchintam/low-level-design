@@ -24,6 +24,6 @@ normal traffic once it has (closed) - without every caller having to reimplement
 
 ## How to run
 ```
-cd /Users/bhargav/Desktop/low-level-design/circuit-breaker
+cd circuit-breaker
 python3 main.py
 ```
